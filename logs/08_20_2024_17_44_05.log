@@ -1,0 +1,13 @@
+[2024-08-20 17:44:33,070] 18 root - INFO - data loading started...
+[2024-08-20 17:44:33,173] 21 root - INFO - data loading completed...
+[2024-08-20 17:44:37,407] 36 root - ERROR - An error occurred while loading the Gemini model: 403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.ModelService.GetModel"
+}
+]

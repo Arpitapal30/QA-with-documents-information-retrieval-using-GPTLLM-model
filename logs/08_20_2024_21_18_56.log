@@ -1,0 +1,13 @@
+[2024-08-20 21:19:12,037] 18 root - INFO - data loading started...
+[2024-08-20 21:19:12,135] 21 root - INFO - data loading completed...
+[2024-08-20 21:19:15,831] 38 root - ERROR - An error occurred: Error occured in python script name [C:\Users\DELL\qasystemnew\QAWithPDF\model_api.py] line number [30] error message [403 Request had insufficient authentication scopes. [reason: "ACCESS_TOKEN_SCOPE_INSUFFICIENT"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "method"
+  value: "google.ai.generativelanguage.v1beta.ModelService.GetModel"
+}
+]]
